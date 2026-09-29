@@ -1,0 +1,11 @@
+idTecnico;nombre;apellido;especialidad;ticketsResueltos;tiempoTotalMinutos;tiempoPromedioMinutos
+T001;Camila;Rodriguez;Software;14;3339;238,50
+T002;Elena;Lopez;Soporte L1;9;1681;186,78
+T003;Martha;Moreno;Software;9;2519;279,89
+T004;Martha;Mendoza;Bases de Datos;16;3835;239,69
+T005;Andres;Ramirez;Seguridad;8;1650;206,25
+T006;Sofia;Moreno;Software;11;2790;253,64
+T007;Andres;Vargas;Soporte L1;12;2582;215,17
+T008;Martha;Perez;Seguridad;9;1884;209,33
+T009;Elena;Gomez;Seguridad;7;1593;227,57
+T010;Luis;Moreno;Software;5;980;196,00
